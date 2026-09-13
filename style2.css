@@ -1,0 +1,134 @@
+* {
+    margin: 0px;
+    padding: 0%;
+
+}
+
+.main-box {
+    height: 500px;
+    width: 960px;
+    border: 2px black solid;
+    border-top-left-radius: 7.5%;
+    border-bottom-left-radius: 7.5%;
+    border-radius: 7.5%;
+    display: flex;
+    margin-top: 90px;
+    margin-left: 180px;
+    border-right: none;
+    bordre
+}
+
+.box1{
+    width: 400px;
+    
+}
+
+.login{
+    margin-top: 50px;
+    margin-left: 120px;
+}
+
+.all-icons{
+    height: 50px;
+    width: 250px;
+    margin-top: 10px;
+    margin-left: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.icon{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0.5px black solid;
+    border-radius: 20%;
+    height: 20px;
+    width: 20px;
+}
+
+.use-email{
+     height: 50px;
+    width: 250px;
+    margin-left: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.email {
+    margin-top: 10px;
+    margin-left: 40px;
+    height: 40px;
+    width: 300px;
+}
+
+.email input{
+    background-color: beige;
+    border: 1px black solid;
+    border-radius: 4%;
+}
+
+.password{
+    margin-top: 20px; 
+    margin-left: 40px;
+    height: 40px;
+    width: 300px;
+
+}
+
+.password input {
+    background-color: beige;
+    border: 1px black solid;
+    border-radius: 4%;
+}
+
+.recover-password{
+     margin-top: 50px; 
+    margin-left: 170px;
+}
+
+.sign-in{
+     margin-top: 20px; 
+    margin-left: 210px;
+    background-color: orange;
+    height: 40px;
+    width: 80px;
+    border: 0.5px black solid;
+    border-radius: 18%;
+}
+
+/**box 2 **/
+
+.box2{
+    height: 498px;
+    width: 600px;
+    margin: 0px 0px 0px 100px;
+    border: 0.2px solid transparent;
+    background-color: lightblue;
+    border-radius: 9.5%;
+    border-top-left-radius: 20%;
+    border-bottom-left-radius: 20%;
+    border-right: 2px solid black ;
+}
+
+.intro{
+    margin-top: 150px;
+    margin-left: 120px;
+}
+
+.info{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+.register{
+     margin-top: 40px;
+    margin-left: 150px;
+    height: 50px;
+    width: 150px;
+    background-color: deepskyblue;
+    border: 0.5px solid black;
+    border-radius: 8%;
+}
